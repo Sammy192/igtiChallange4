@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "a03-criando-elementos"
+		},
+		{
+			"path": "a02-eventos"
+		},
+		{
+			"path": "a01-interacao-basica_trabalho igti"
+		},
+		{
+			"path": "trabalhoFeitoNaAula"
+		},
+		{
+			"path": "..\\..\\..\\trabalho-pratico-aula-3_aovivo"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "trabalhoFeitoNaAula"
+	}
+}
